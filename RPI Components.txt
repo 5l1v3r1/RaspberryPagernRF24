@@ -4,6 +4,9 @@ LIST OF COMPONENTS and source
 ALL CAPACITORS ARE 1206  SMD
 ALL RESISTORS ARE 1206 SMD
 
+41x tactile switch  (SPST-NO, 6mm x 6mm x 5mm, ex. EVP-ASKC1A)
+1x buzzer (SMD, 9.6mm x 9.6mm, 2-5V, ex. CMI-9653S-SMT-TR)
+
 
 nRF24L01 2.4 Ghz TRX
 https://fr.aliexpress.com/item/Free-Shipping-SMD-NRF24L01-1100-meter-long-distance-NRF24L01-PA-LNA-SMD-wireless-modules-1100meters-in/32255233251.html?spm=a2g0w.10010108.1000016.1.41892b28whEJXL&isOrigTitle=true
